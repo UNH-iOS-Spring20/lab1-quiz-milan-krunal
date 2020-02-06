@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  Quiz_app
+//  Quiz-lab
 //
-//  Created by Krunal Mistry on 2/3/20.
-//  Copyright © 2020 Krunal Mistry. All rights reserved.
+//  Created by Milan Chalishajarwala on 05/02/20.
+//  Copyright © 2020 Milan Chalishajarwala. All rights reserved.
 //
 
 import UIKit
